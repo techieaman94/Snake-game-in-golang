@@ -1,6 +1,6 @@
 # Snake Game 
 
-##This is a Terminal based snake game made using Golang.
+## This is a Terminal based snake game made using Golang.
   
 Here is a Screenshot of th game!
 
