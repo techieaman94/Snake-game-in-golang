@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	s "./game"
+	s "github.com/techieaman94/Snake-game-in-golang/game"
 )
 
 func main() {
