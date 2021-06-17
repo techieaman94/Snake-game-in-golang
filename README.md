@@ -4,7 +4,7 @@
   
 Here is a Screenshot of th game!
 
-![GIF](https://github.com/tristangoossens/snake-go/blob/master/images/game-v2.gif)
+![GIF](https://github.com/)
 
 
 ## How to play
