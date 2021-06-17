@@ -5,7 +5,7 @@
 ### In this game
 
 * Users can pass the board size (height and width) upon running the game.
-* The game has a side pannel to show Game Score (number of food units eaten by snake) and Length of the Snake.
+* The game has a side pannel to show Game Score (number of food units eaten by snake), Length of the Snake and Dimension of board.
 * Upon game over users can press 'Home' key to Resart the game OR press 'Delete' key to Quit.
   
 Here is a Screenshot of the game!
