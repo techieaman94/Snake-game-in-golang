@@ -4,7 +4,7 @@
   
 Here is a Screenshot of th game!
 
-![GIF](https://github.com/)
+![GitHub Logo](https://github.com/techieaman94/Snake-game-in-golang/blob/main/Screenshot-Snake-Game.png)
 
 
 ## How to play
