@@ -24,7 +24,7 @@ It took me 6 days to complete this game, here is a gif of the game!
 
 ### Packages used
 
-* [termloop] (https://github.com/JoelOtter/termloop)
-* [termbox-go] (https://github.com/nsf/termbox-go)
+* [termloop](https://github.com/JoelOtter/termloop)
+* [termbox-go](https://github.com/nsf/termbox-go)
 
 
