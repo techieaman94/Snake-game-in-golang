@@ -17,6 +17,9 @@ It took me 6 days to complete this game, here is a gif of the game!
 ### Installation and running the game
 
 * Install Golang [here](https://golang.org/).
+* Get required packages for the game by using below commands. 
+ `go get -u github.com/JoelOtter/termloop`
+ `go get -u github.com/nsf/termbox-go`
 * Download or Clone this repo in local system.
 * Go inside the project folder where 'gamerun.go' file is present.
 * Open in terminal.
