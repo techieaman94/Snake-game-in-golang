@@ -8,9 +8,9 @@
 * The game has a side pannel to show Game Score (number of food units eaten by snake), Length of the Snake and Dimension of board.
 * Upon game over users can press 'Home' key to Resart the game, OR press 'Delete' key to Quit.
   
-It took me 6 days to complete this game, here is a Screenshot of the game!
+It took me 6 days to complete this game, here is a gif of the game!
 
-![GitHub Logo](https://github.com/techieaman94/Snake-game-in-golang/blob/main/Screenshot-Snake-Game.png)
+![GIF](https://github.com/techieaman94/Snake-game-in-golang/blob/main/util/snake-go-game.gif)
 
 ## How to play
 
